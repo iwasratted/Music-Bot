@@ -57,4 +57,4 @@ We welcome contributions! Feel free to fork the repository and submit pull reque
 If you like this project, consider starring the repository to show your support!
 ```
 
-This updated version includes your Discord ID link with your header username "Unknownz." Let me know if there's anything else you'd like adjusted!
+This updated version includes your Discord ID link with your header username "KarmaIzLove." Let me know if there's anything else you'd like adjusted!
